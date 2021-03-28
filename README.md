@@ -2,7 +2,7 @@
 Sample quiz app regarding national flags.
 # Pre-requisites
 1. Android SDK
-2. Anndroid Build Tools
+2. Android Build Tools
 3. Android Support Repository
 # Getting Started
 **This sample app uses the Gradle Build system of Android Studio.**
